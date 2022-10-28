@@ -9,6 +9,9 @@
 - 🌱 Graduated from Henry Bootcamp
 - 💬 My contact mail is caloieropedro@gmail.com
 - ⚡ Fun fact: I like to play the guitar in my free time
+- 📧 Contact me!:
+
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Pedrocaloi) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/pedrocaloi/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](caloieropedro@gmail.com)
 
 ### Languages and Tools
 
