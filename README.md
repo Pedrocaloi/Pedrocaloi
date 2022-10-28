@@ -11,8 +11,8 @@
 - ⚡ Fun fact: I like to play the guitar in my free time
 - 📧 Contact me!:
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Pedrocaloi) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="34">](https://www.linkedin.com/in/pedrocaloi/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="34">](mailto:caloieropedro@gmail.com.com)
-<a src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" href="mailto:caloieropedro@gmail.com">
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" heigth="20" width="20">](https://github.com/Pedrocaloi) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" heigth="20" width="20">](https://www.linkedin.com/in/pedrocaloi/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" heigth="20" width="20">](mailto:caloieropedro@gmail.com.com)
+
 
 ### Languages and Tools
 
