@@ -7,7 +7,7 @@
 
 - 🔭 Im from Argentina. I love programming
 - 🌱 Graduated from Henry Bootcamp
-- 💬 My contact mail is caloieropedro@gmail.com
+- 💬 My email is caloieropedro@gmail.com
 - ⚡ Fun fact: I like to play the guitar in my free time
 
 - 📧 Contact me!
