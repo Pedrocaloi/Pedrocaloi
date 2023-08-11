@@ -7,7 +7,7 @@
 
 - 🔭 Im from Argentina. I love programming
 - 🌱 Graduated from Henry Bootcamp
-- 💬 Check out my portfolio! https://enchanting-queijadas-28945d.netlify.app
+- 💬 Check out my portfolio! https://pedrocaloi.netlify.app
 - ⚡ Fun fact: I like to play the guitar in my free time
 
 - 📧 Contact me!
