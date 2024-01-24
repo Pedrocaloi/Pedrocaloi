@@ -8,7 +8,7 @@
 - 🔭 Im from Argentina. I love programming
 - 🌱 Graduated from Henry Bootcamp
 - 💬 Check out my portfolio! https://pedrocaloi.netlify.app
-- ⚡ Fun fact: I like to play the guitar in my free time
+- ⚡ Hobby: I like to play the guitar in my free time
 
 - 📧 Contact me!
 
